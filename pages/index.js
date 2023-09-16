@@ -1,8 +1,8 @@
-import Otp from "./otp";
+import Feed from "../components/Feed";
 
 
 export default function Home() {
   return (
-  <Otp/>  
-  )
-}
+    <Feed/>
+    )
+  }
